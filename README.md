@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/mrdudae"> <!-- link do seu github -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudiOmatheuuss&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/> <!-- mudar username=para o seu nome de usuario no github -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiOmatheuuss&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=false&count_private=false"/> <!-- mudar user name para seu nome de usuario no github -->
+<div>
+   <a href="https://github.com/mrdudae">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdudae&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdudae&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=false&count_private=false"/>
 </div>
     
 <div style="display: inline_block"><br>
